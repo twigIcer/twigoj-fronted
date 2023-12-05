@@ -14,7 +14,6 @@
 }
 </style>
 <script setup lang="ts">
-import userLayout from "@/layouts/UserLayout.vue";
 import { onMounted } from "vue";
 import { useRoute } from "vue-router";
 import BasicLayout from "@/layouts/BasicLayout.vue";
